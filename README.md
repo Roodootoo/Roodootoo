@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+👀 I’m interested in backend development & AI
+🌱 I’m currently learning Python development
+👯 I’m looking to collaborate on python / django projects / ML
+💬 Ask me about.. dogs) Yes, I'm also cynologists
+📫 How to reach me: telegram - @rdt_a
+
 SUMMARY
 
 17 years in IT, 16 years as a 1C developer (SAP equivalent in CIS countries), 4 years as Team Lead, 9 month as Python developer, also experienced as an IT support engineer
@@ -18,7 +24,6 @@ ACHIEVEMENTS
 - Rescuer of the year Award 2014, Europarts-rus
 - Re-organized the database with thousands of old methods to make it work faster & with better usability.
 - Managing 22 databases located around all Russia.
-
 
 
 COURSES AND CERTIFICATION
