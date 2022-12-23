@@ -1,14 +1,10 @@
 ### Hi there 👋
 
-👀 I’m interested in backend development & AI
-
-🌱 I’m currently learning Python development
-
-👯 I’m looking to collaborate on python / django projects / ML
-
-💬 Ask me about.. dogs) Yes, I'm also cynologists
-
-📫 How to reach me: telegram - @rdt_a
+- 👀 I’m interested in backend development & AI
+- 🌱 I’m currently learning Python development
+- 👯 I’m looking to collaborate on python / django projects / ML
+- 💬 Ask me about.. dogs) Yes, I'm also cynologists
+- 📫 How to reach me: telegram - @rdt_a
 
 
 SUMMARY
