@@ -8,11 +8,6 @@
 - ⚡ 17 years in IT, 16 years as a 1C developer (SAP equivalent in CIS countries), 4 years as Team Lead 1С 
 
 
-SUMMARY
-
-17 years in IT, 16 years as a 1C developer (SAP equivalent in CIS countries), 4 years as Team Lead, 9 month as Python developer, also experienced as an IT support engineer
-
-
 STRENGTHS
 
 - Systems thinking
