@@ -35,7 +35,7 @@ COURSES AND CERTIFICATION
 
 HOBBY
 
-During the pandemic studied a 2-years refresher training course in «cynology». Graduated with distinction on «Cancer diseases in dogs» thesis. Volunteer at a dog shelter with experience in training and working with service dogs searching explosives. Positive reinforcement, animal care, veterinary medicine.
+During the pandemic studied a 2-years refresher training course in «cynology». Graduated with distinction on «Cancer diseases in dogs» thesis. Volunteer at a dog shelter with experience in training and working with service dogs searching explosives. Volunteer for blind people with guide dogs. Positive reinforcement, animal care, veterinary medicine.
 
 
 <!--
