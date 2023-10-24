@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 👀 I’m interested in backend development & ML & AI
+- 🔭 I’m currently working with team on web-site for ANO Mira
+- 👀 I’m interested in backend development & ML
 - 👯 I’m looking to collaborate on python / django projects / ML
 - 💬 Ask me about.. dogs) Yes, I'm also cynologist
 - 📫 How to reach me: telegram - @rdt_a
-- ⚡ 17 years in IT, 16 years as a 1C developer (SAP equivalent in CIS countries), 4 years as Team Lead 1С, 1 year as Python developer
 
 
 STRENGTHS
