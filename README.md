@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with team on web-site for ANO Mira
+- 🔭 I'm currently working with a team on the website for ANO Mira
 - 👀 I’m interested in backend development & ML
 - 👯 I’m looking to collaborate on python / django projects / ML
 - 💬 Ask me about.. dogs) Yes, I'm also cynologist
