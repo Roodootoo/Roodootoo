@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working with a team on the website for NGO Mira
+- 🔭 I'm currently working with a team on the website for NGO Mira (built using Django), CRM 4dev (using 1C), and the 'FindFriend' website (an animal shelters aggregator)
 - 👀 I’m interested in backend development & ML
 - 👯 I’m looking to collaborate on python / django projects / ML
 - 💬 Ask me about.. dogs) Yes, I'm also cynologist
